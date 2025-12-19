@@ -8,8 +8,8 @@
 
 .participants-list {
   margin: 8px 0 0 20px;
-  padding-left: 0;
-  list-style-position: inside;
+  padding-left: 20px;
+  list-style-position: outside;
 }
 
 .participants-list li {
